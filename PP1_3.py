@@ -19,13 +19,11 @@ def q1():
 
   #triangle
   print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
-  print()
 
 def q2():
   #Write Assignment code here
   print("Hello ", end = "")
   print("World")
-  print()
   
 def q3():
   #Write Assignment code here
