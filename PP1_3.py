@@ -8,10 +8,16 @@ Date Last Modified: Sept 18, 2024
 def q1():
   #Write Assignment code here
   #Remember your code must be indented once
+
+  #wavy rectangle
   print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *")
   print()
+
+  #square
   print("* * * * *\n*       *\n*       *\n*       *\n* * * * *")
   print()
+
+  #triangle
   print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
   print()
 
@@ -23,10 +29,11 @@ def q2():
   
 def q3():
   #Write Assignment code here
-  print("Man\nBoard\nMan Overboard")
+  print('"Man"\n"Board"\n"Man Overboard"')
   
 def q4():
   #Write Assignment code here
+  #an enigma
   print()
 
 #Do not alter anything after this line
